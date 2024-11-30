@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Noto Sans";
+  src: url("@/assets/fonts/NotoSans-VariableFont_wdth,wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+  src: url("@/assets/fonts/NotoSansKR-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+}
